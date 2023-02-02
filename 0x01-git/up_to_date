@@ -1,1 +1,1 @@
-vi <filename>
+git pull origin master
